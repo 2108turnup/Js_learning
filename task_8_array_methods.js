@@ -30,7 +30,7 @@
 //       if (Array.isArray(arguments)) {
 //         newArr = arguments.shift();
 //       }
-   
+
 //     }
 
 //   return console.log(newArr);
@@ -38,7 +38,4 @@
 
 // console.log(changeCollection([1, 2, 3]));
 
-
 // task 4
-
-//git check
